@@ -17,4 +17,3 @@ Name - To return code to name Background Void For start-up menu
 Subsitution - For substitutions Modify Void To select day to modify
 Mod - To modify the selected day Classdetails Void To display class details
 drawRectangle - To draw a rectangle border
-
